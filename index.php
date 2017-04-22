@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ParCons
-Plugin URI: serfsave.wordpress.com
+Plugin URI: https://github.com/francescosave/ParCons
 Description: Plugin per la gestione dei pareri in consiglio municipale/comunale
 Version: 1.1.5
 Author: Francesco saverio Ricci
